@@ -78,9 +78,9 @@ Plateforme de gestion des demandes administratives pour un hôpital militaire.
 </tr>
 </table>
 
-### Autres projets
-- **💊 Medicine Stock Management** — Application de gestion de stock pharmaceutique (Python + Tkinter)
-- **📝 Student Registration System** — Gestion des inscriptions étudiantes (Python + MySQL)
+### Autres projets notables
+- **💊 Medicine Stock Management** — Application desktop de gestion de stock pharmaceutique (Python + Tkinter)
+- **📝 Student Registration System** — Système de gestion des inscriptions étudiantes (Python + MySQL)
 - **🗳️ Census Management** — Application web de recensement (PHP)
 
 ---
@@ -88,11 +88,11 @@ Plateforme de gestion des demandes administratives pour un hôpital militaire.
 ## 📊 Development Metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Graciace229&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciace229&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Graciace229&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciace229&layout=compact&theme=dracula&hide_border=true"/>
 </div>
 
-> **Note** : Mon projet principal (**Amour en Vue**) étant développé dans un repository privé, les statistiques ci-dessus reflètent uniquement mon activité publique.
+> **Note** : Mon principal projet (**Amour en Vue**) est développé dans un repository privé. Les statistiques ci-dessus reflètent uniquement mon activité publique sur GitHub.
 
 ---
 
@@ -100,7 +100,7 @@ Plateforme de gestion des demandes administratives pour un hôpital militaire.
 
 - ❤️ Lancer le MVP de **Amour en Vue**
 - ☁️ Maîtriser le Cloud Engineering
-- 🔐 Approfondir la cybersécurité
+- 🔐 Approfondir mes compétences en cybersécurité
 - 🐳 Découvrir Kubernetes
 - 🤝 Contribuer à des projets open source
 
