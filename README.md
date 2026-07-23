@@ -1,105 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I'm Déo Graciace Tooké OGA
+# 👋 Hello, I'm Déo Graciace Tooké OGA
 
-### IT Systems Engineer • Network Administrator • Cybersecurity Enthusiast • Full Stack Developer
+### IT Systems Engineer • Full Stack Developer • Network & Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+secure+and+reliable+solutions.;Python+%7C+Django+%7C+Flutter+%7C+Networking.;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Building+secure+and+scalable+applications.;Networking+%7C+Cybersecurity+%7C+Software+Engineering.;Python+%7C+Django+%7C+React+Developer.;Always+Learning.+Always+Building." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Graciace229&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Graciace229&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💡 About Me
 
-💻 Passionate about building **secure infrastructures** and **useful software**
+I'm an **IT Systems Engineer** passionate about developing secure software, designing reliable infrastructures and solving real-world problems through technology.
 
-🔐 Interested in **Cybersecurity**, **Networking**, **Cloud** and **System Administration**
+I enjoy combining **software engineering**, **network administration** and **cybersecurity** to build practical solutions.
 
-📱 Developing **Web**, **Desktop** and **Mobile Applications**
-
-🌍 Based in **Benin**
-
-🎯 Current Goal:
-Become an expert in **Cybersecurity**, **Cloud Infrastructure** and **Software Engineering**
+- 💻 Full Stack Developer
+- 🔐 Cybersecurity Enthusiast
+- 🌐 Network & Systems Administration
+- 🚀 Building real-world software solutions
+- 🌍 Based in Benin
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,php,cpp,java,js,html,css"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,php,js,cpp,c,java,html,css" />
 </p>
 
 ### Frameworks
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=django,flutter"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,react,tailwind" />
 </p>
 
 ### Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Systems & Tools
+### Tools & Platforms
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,vscode"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 HIA Connect
+## 🏥 HIA Connect
 
-Administrative request management platform developed for a military hospital.
+Administrative Request Management Platform for a Military Hospital.
 
-> Django • Python • MySQL
+**Stack**
 
----
-
-### ❤️ Amour en Vue
-
-Modern relationship platform designed for the African context.
-
-> Flutter • Django
+`Django` • `HTML` • `CSS` • `JavaScript` • `MySQL`
 
 ---
 
-### 💊 Medicine Stock Management
+## ❤️ Amour en Vue
 
-Desktop application for pharmacy stock management.
+A modern relationship platform designed for the African context.
 
-> Python • Tkinter • SQL
+**Stack**
 
----
-
-### 🌐 Network & Security Portfolio
-
-Configuration, administration and cybersecurity projects.
-
-> Cisco • Linux • Windows Server
+`React` • `Tailwind CSS` • `Django REST Framework` • `PostgreSQL`
 
 ---
 
-# 📈 GitHub Statistics
+## 💊 Medicine Stock Management
+
+Desktop application for managing pharmaceutical inventory.
+
+**Stack**
+
+`Python` • `Tkinter` • `SQL`
+
+---
+
+## 📝 Student Registration Management System
+
+Desktop application for student registration management.
+
+**Stack**
+
+`Python` • `Tkinter` • `Pillow` • `MySQL`
+
+---
+
+## 🗳️ Census Management System
+
+Web application for census management.
+
+**Stack**
+
+`PHP` • `SQLite`
+
+---
+
+## 📊 Personal CRM
+
+Personal customer relationship management application.
+
+**Stack**
+
+`Python`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +130,7 @@ Configuration, administration and cybersecurity projects.
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -121,17 +140,7 @@ Configuration, administration and cybersecurity projects.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Graciace229&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -141,30 +150,51 @@ Configuration, administration and cybersecurity projects.
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Graciace229&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build **Amour en Vue**
+- ☁️ Learn Cloud Engineering
+- 🔐 Improve Cybersecurity Skills
+- 🌍 Contribute to Open Source
+- 📚 Continue learning every day
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="TON_LINKEDIN">
+<a href="mailto:ogadeograciace@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/déo-graciace-tooké-oga-238512305">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ogadeograciace@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Graciace229">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="TON_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
-</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-> **"Technology becomes truly valuable when it solves real-world problems."**
+### 💬 Favorite Quote
 
-⭐ Thanks for visiting my profile!
+*"Code is more than software. It's a way to solve real problems."*
+
+⭐ Thank you for visiting my profile!
 
 </div>
