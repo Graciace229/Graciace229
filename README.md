@@ -1,200 +1,122 @@
 <div align="center">
+  <h1>👋 Hello, I'm Déo Graciace Tooké OGA</h1>
+  <h3>IT Systems Engineer • Full Stack Developer • Network & Cybersecurity Enthusiast</h3>
 
-# 👋 Hello, I'm Déo Graciace Tooké OGA
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+secure+and+scalable+solutions;Full+Stack+%7C+Networks+%7C+Cybersecurity" />
 
-### IT Systems Engineer • Full Stack Developer • Network & Cybersecurity Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Building+secure+and+scalable+applications.;Networking+%7C+Cybersecurity+%7C+Software+Engineering.;Python+%7C+Django+%7C+React+Developer.;Always+Learning.+Always+Building." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Graciace229&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Graciace229&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </div>
 
 ---
 
-# 💡 About Me
+## 💡 About Me
 
-I'm an **IT Systems Engineer** passionate about developing secure software, designing reliable infrastructures and solving real-world problems through technology.
+**IT Systems Engineer** passionné par le développement de solutions techniques sécurisées et l’optimisation d’infrastructures. 
 
-I enjoy combining **software engineering**, **network administration** and **cybersecurity** to build practical solutions.
-
-- 💻 Full Stack Developer
-- 🔐 Cybersecurity Enthusiast
-- 🌐 Network & Systems Administration
-- 🚀 Building real-world software solutions
-- 🌍 Based in Benin
+Je combine **développement full stack**, **administration systèmes & réseaux** et **cybersécurité** pour créer des applications robustes avec un fort impact métier, particulièrement adaptées au contexte africain.
 
 ---
 
-# 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,php,js,cpp,c,java,html,css" />
-</p>
-
-### Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,react,tailwind" />
-</p>
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 HIA Connect
-
-Administrative Request Management Platform for a Military Hospital.
-
-**Stack**
-
-`Django` • `HTML` • `CSS` • `JavaScript` • `MySQL`
-
----
-
-## ❤️ Amour en Vue
-
-A modern relationship platform designed for the African context.
-
-**Stack**
-
-`React` • `Tailwind CSS` • `Django REST Framework` • `PostgreSQL`
-
----
-
-## 💊 Medicine Stock Management
-
-Desktop application for managing pharmaceutical inventory.
-
-**Stack**
-
-`Python` • `Tkinter` • `SQL`
-
----
-
-## 📝 Student Registration Management System
-
-Desktop application for student registration management.
-
-**Stack**
-
-`Python` • `Tkinter` • `Pillow` • `MySQL`
-
----
-
-## 🗳️ Census Management System
-
-Web application for census management.
-
-**Stack**
-
-`PHP` • `SQLite`
-
----
-
-## 📊 Personal CRM
-
-Personal customer relationship management application.
-
-**Stack**
-
-`Python`
-
----
-
-# 📊 GitHub Analytics
+## 🚧 Currently Working On
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Graciace229&show_icons=true&theme=tokyonight&hide_border=true"/>
+### ❤️ Amour en Vue
+**Plateforme de mise en relation moderne adaptée au contexte africain**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciace229&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Graciace229&theme=tokyonight&hide_border=true"/>
+🟢 **Statut :** Développement actif (Repository privé collaboratif)  
+📅 **Début :** Mai 2026  
+👨‍💻 Développement quotidien avec Git, commits réguliers et revues de code
 
 </div>
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Graciace229&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Graciace229&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build **Amour en Vue**
-- ☁️ Learn Cloud Engineering
-- 🔐 Improve Cybersecurity Skills
-- 🌍 Contribute to Open Source
-- 📚 Continue learning every day
-
----
-
-# 📫 Let's Connect
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<a href="mailto:ogadeograciace@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/déo-graciace-tooké-oga-238512305">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Graciace229">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,php,js,html,css,mysql,postgresql,sqlite,linux,docker,git,vscode" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+**Quelques projets sont privés** pour des raisons de confidentialité ou de déploiement interne. Détails et démos disponibles sur demande.
+
+<table>
+<tr>
+<td width="50%">
+
+### ❤️ Amour en Vue
+Plateforme de rencontre moderne pensée pour le contexte africain.
+
+**Points forts**
+- Matching intelligent
+- Messagerie sécurisée
+- Vérification d’identité
+- Recommandations adaptées
+
+**Stack :** React • Tailwind • Django REST • PostgreSQL
+
+</td>
+<td width="50%">
+
+### 🏥 HIA Connect
+Plateforme de gestion des demandes administratives pour un hôpital militaire.
+
+**Points forts**
+- Gestion des demandes employés
+- Suivi documentaire
+- Tableau de bord
+- Authentification sécurisée
+
+**Stack :** Django • MySQL • JavaScript
+
+</td>
+</tr>
+</table>
+
+### Autres projets
+- **💊 Medicine Stock Management** — Application de gestion de stock pharmaceutique (Python + Tkinter)
+- **📝 Student Registration System** — Gestion des inscriptions étudiantes (Python + MySQL)
+- **🗳️ Census Management** — Application web de recensement (PHP)
+
+---
+
+## 📊 Development Metrics
+
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Graciace229&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciace229&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-### 💬 Favorite Quote
+> **Note** : Mon projet principal (**Amour en Vue**) étant développé dans un repository privé, les statistiques ci-dessus reflètent uniquement mon activité publique.
 
-*"Code is more than software. It's a way to solve real problems."*
+---
 
-⭐ Thank you for visiting my profile!
+## 🎯 2026 Roadmap
 
+- ❤️ Lancer le MVP de **Amour en Vue**
+- ☁️ Maîtriser le Cloud Engineering
+- 🔐 Approfondir la cybersécurité
+- 🐳 Découvrir Kubernetes
+- 🤝 Contribuer à des projets open source
+
+---
+
+## 📫 Contact
+
+| Contact     | Lien |
+|-------------|------|
+| 📧 Email    | ogadeograciace@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/déo-graciace-tooké-oga-238512305](https://www.linkedin.com/in/déo-graciace-tooké-oga-238512305) |
+| 💻 GitHub   | [github.com/Graciace229](https://github.com/Graciace229) |
+
+---
+
+<div align="center">
+  <i>"Building software is not just about writing code. It's about solving problems that matter."</i><br><br>
+  ⭐ Merci d’avoir visité mon profil ! Ouvert aux opportunités et collaborations intéressantes.
 </div>
