@@ -3,6 +3,7 @@
   <h3>IT Systems Engineer • Full Stack Developer • Network & Cybersecurity Enthusiast</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+secure+and+scalable+solutions;Full+Stack+%7C+Networks+%7C+Cybersecurity" />
+  <img src="https://komarev.com/ghpvc/?username=Graciace229&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </div>
 
 ---
